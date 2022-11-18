@@ -3,7 +3,8 @@ public class Car
     private String color;
     private String manufacturer;
     private int doors;
-private String deleteMe;
+private String mergeMe;
+
 
     public Car(String color, String manufacturer, int doors)
     {
